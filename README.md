@@ -18,7 +18,7 @@ Before using the application you should install python better if the vesrsion is
 ## How to use the application
 Assume you are at the logger side start py running : 
 
-$ python login_waf.py
+	$ python login_waf.py
 
 ![screenshot from 2018-12-20 02-50-28](https://user-images.githubusercontent.com/45997793/50274248-c141a680-040a-11e9-880d-f88e59968a30.png)
 ![screenshot from 2018-12-20 02-49-27](https://user-images.githubusercontent.com/45997793/50274294-e0403880-040a-11e9-9f1a-46266fe5a367.png)
