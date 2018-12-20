@@ -103,4 +103,6 @@ Web applications are running on the OSI layer 7 ­ the application layer. To det
 ## References 
 
 http://resources.infosecinstitute.com/log-analysis-web-attacks-beginners-guide/#gref
-https://link.springer.com/article/10.1007/s11950-008-1008
+
+https://link.springer.com/article/10.1007/s11950-008-1008-y
+
