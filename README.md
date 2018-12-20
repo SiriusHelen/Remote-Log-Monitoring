@@ -6,10 +6,14 @@ standard gui interface [Tkinter](https://docs.python.org/3/library/tk.html).
 ## Pre conditions 
 
 Before using the application you should install python better if the vesrsion is python 3.6.* 
-$ pip install tkinter
-$ pip install watchdog
-$ pip install apache_log_parser
-$ pip install logging 
+
+	$ pip install tkinter
+
+	$ pip install watchdog
+
+	$ pip install apache_log_parser
+
+	$ pip install logging 
 
 ## How to use the application
 Assume you are at the logger side start py running : 
